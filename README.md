@@ -4,4 +4,6 @@
 
 `pip install matplotlib`
 
+![alt text](shapes1.png)
+
 ![alt text](Figure_1.png)
